@@ -1,6 +1,8 @@
 # IntelliJ Project Files
 .idea
 *.iml
+*.ipr
+*.iws
 atlassian-ide-plugin.xml
 
 # Eclipse Project Files
