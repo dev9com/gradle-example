@@ -15,7 +15,7 @@
     <file path="/build.gradle" changelist="213e37a8-a498-4070-b0fc-10917b7643d4" time="1394672033604" ignored="false" />
     <file path="/pom.xml" changelist="213e37a8-a498-4070-b0fc-10917b7643d4" time="1394427666199" ignored="false" />
     <file path="/Calculator.java" changelist="213e37a8-a498-4070-b0fc-10917b7643d4" time="1394429651763" ignored="false" />
-    <file path="$PROJECT_DIR$/../integration-tests/.idea/workspace.xml" changelist="213e37a8-a498-4070-b0fc-10917b7643d4" time="1394672072545" ignored="false" />
+    <file path="$PROJECT_DIR$/../integration-tests/.idea/workspace.xml" changelist="213e37a8-a498-4070-b0fc-10917b7643d4" time="1394731602563" ignored="false" />
     <file path="/settings.gradle" changelist="213e37a8-a498-4070-b0fc-10917b7643d4" time="1394560573779" ignored="false" />
     <file path="/a.dummy" changelist="213e37a8-a498-4070-b0fc-10917b7643d4" time="1394576724226" ignored="false" />
     <file path="$PROJECT_DIR$/../integration-tests/src/test/groovy/com/nintendo/soa/test/m5ShipConfirm/EBSToM5KOFManifestTest.groovy" changelist="213e37a8-a498-4070-b0fc-10917b7643d4" time="1394581984149" ignored="false" />
@@ -25,6 +25,7 @@
     <file path="$PROJECT_DIR$/../integration-tests/src/main/groovy/com/nintendo/soa/test/soap/user/CreateCustomerClient.groovy" changelist="213e37a8-a498-4070-b0fc-10917b7643d4" time="1394582243046" ignored="false" />
     <file path="/CreateCustomerClient.groovy" changelist="213e37a8-a498-4070-b0fc-10917b7643d4" time="1394582240692" ignored="false" />
     <file path="/gradle.properties" changelist="213e37a8-a498-4070-b0fc-10917b7643d4" time="1394660276371" ignored="false" />
+    <file path="/.gitignore" changelist="213e37a8-a498-4070-b0fc-10917b7643d4" time="1394731594800" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -125,10 +126,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="build.gradle" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="76" selection-start="729" selection-end="729" vertical-scroll-proportion="0.5435169">
+            <state line="18" column="76" selection-start="729" selection-end="729" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="93" column="12" selection-start="967" selection-end="967" vertical-scroll-proportion="0.8188277">
               <folding />
             </state>
           </provider>
@@ -262,6 +272,7 @@
         <option value="$PROJECT_DIR$/gradle.properties" />
         <option value="$PROJECT_DIR$/src/test/java/com/dev9/CalculatorTest.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -747,15 +758,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/dev9/CalculatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="26" selection-start="866" selection-end="866" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
@@ -862,7 +864,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="76" selection-start="729" selection-end="729" vertical-scroll-proportion="0.5435169">
+        <state line="18" column="76" selection-start="729" selection-end="729" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="93" column="12" selection-start="967" selection-end="967" vertical-scroll-proportion="0.8188277">
           <folding />
         </state>
       </provider>

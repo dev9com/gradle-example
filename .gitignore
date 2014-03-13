@@ -1,5 +1,94 @@
+# IntelliJ Project Files
 .idea
+*.iml
+atlassian-ide-plugin.xml
+
+# Eclipse Project Files
+.project
+.metadata
+.settings/
+.classpath
+.loadpath
+bin/**
+*.launch
+.externalToolsBuilders/
+
+# SublimeText Files
+*.sublime-workspace
+
+# TextMate Files
+*.tmproj
+*.tmproject
+tmtags
+
+# VIM Files
+.*.s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+
+# Emacs Files
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+.elc
+auto-save-list
+tramp
+.\#*
+.org-id-locations
+*_archive
+
+# Maven Files
+target
+
+# Compiled
+*.class
+
+# OS X Files
+.DS_Store
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+
+# Windows Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# It's better to unpack these files and commit the raw source because
+# git has its own built in compression methods.
+*.7z
+*.rar
+*.zip
+*.gz
+*.bzip
+*.bz2
+*.xz
+*.lzma
+*.war
+*.ear
+
+# Packing-only Formats
+*.iso
+*.tar
+
+# Package Management Formats
+*.dmg
+*.xpi
+*.gem
+*.egg
+*.deb
+*.rpm
+
+# Misc
+*~
+*.tmp
+*.bak
+*.swp
+
 .gradle
 build/*
 gradle/*
-out/*
+out/*git sta
