@@ -37,6 +37,7 @@ dependencies {
 
     //This way is the long cut
     //This is the TestNG test execution library that is better than JUnit
+    //Adding a + for a version number means get the latest number for that version.  So in this case get the latest 6.8.whatever deployment
     testCompile group: 'org.testng', name: 'testng', version: '6.8.+'
 
     //An assertion library that is better than JUnit defaults
