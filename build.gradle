@@ -37,7 +37,7 @@ dependencies {
 
     //This way is the long cut
     //This is the TestNG test execution library that is better than JUnit
-    testCompile group: 'org.testng', name: 'testng', version: '6.8.8'
+    testCompile group: 'org.testng', name: 'testng', version: '6.8.+'
 
     //An assertion library that is better than JUnit defaults
     testCompile 'org.easytesting:fest-assert-core:2.0M10'
